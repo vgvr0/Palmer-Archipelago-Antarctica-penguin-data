@@ -1,2 +1,3 @@
 # Palmer-Archipelago-Antarctica-penguin-data
-Palmer Archipelago (Antarctica) penguin data
+
+The aim of this notebook is to conduct an exploratory data analysis (EDA) on the dataset obtained from the research article titled "Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus Pygoscelis)" by Gorman KB, Williams TD, and Fraser WR (2014), published in PLoS ONE 9(3): e90081. Following that, data preprocessing was carried out, focusing on feature engineering of selected variables using the ANOVA F-ratio. Subsequently, dimensionality reduction was performed using principal component analysis (PCA) to reduce the number of features in the dataset. Finally, support vector machines (SVM) were employed with hyperparameter tuning using grid and randomized search techniques to build the most accurate models.
